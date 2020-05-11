@@ -1,0 +1,21 @@
+Extremely Important
+	Short Time
+		Fix favicon css class
+		Create UX UI Catalog Kart
+	
+	Medium Time
+		Css architecture
+		
+	Long Time
+
+Important
+	Short Time
+
+	Medium Time
+
+	Long Time
+		implement: https://app.freteclick.com.br/
+
+Average
+
+Low priority
